@@ -1,6 +1,6 @@
 # hello-world
 
-The other line 1
+Line 1
 
 Not sure what I'm doing but working through the very well written tutorial.
 
